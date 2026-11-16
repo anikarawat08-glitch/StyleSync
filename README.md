@@ -2,6 +2,12 @@
 
 > **A Pinterest-Inspired Fashion-Tech Web Application for Personalized Outfit Recommendations, Style Archetype Discovery, and Virtual Wardrobe Management.**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://stylesync-eight-lac.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/anikarawat08-glitch/StyleSync)
+
+- 🌐 **Live Website:** [https://stylesync-eight-lac.vercel.app](https://stylesync-eight-lac.vercel.app)
+- 💻 **GitHub Repository:** [https://github.com/anikarawat08-glitch/StyleSync](https://github.com/anikarawat08-glitch/StyleSync)
+
 Built as a high-standard **3rd-Year B.Tech CSE Mini-Project / Portfolio Showcase** using modern React.js, Vite, HTML5, CSS3, React Icons, and LocalStorage.
 
 ---
